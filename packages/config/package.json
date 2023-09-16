@@ -1,0 +1,15 @@
+{
+  "name": "@sqweeks-roster-bot/config",
+  "private": true,
+  "version": "0.0.0",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@tsconfig/node20": "^20.1.2",
+    "@typescript-eslint/eslint-plugin": "^6.6.0",
+    "@typescript-eslint/parser": "^6.6.0",
+    "eslint": "^8.49.0",
+    "eslint-config-prettier": "^9.0.0",
+    "prettier": "^3.0.3"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "extends": "@tsconfig/node20",
+  "compilerOptions": {
+    "sourceMap": true,
+    "isolatedModules": true,
+    "composite": true,
+    "declaration": true,
+    "declarationMap": true
+  }
+}
