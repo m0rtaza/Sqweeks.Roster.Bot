@@ -1,5 +1,5 @@
 {
-  "extends": "@sqweeks-roster-bot/config/tsconfig.json",
+  "extends": "@sqweeks-roster-bot/config/tsconfig.base.json",
   "compilerOptions": {
     "rootDir": "src",
     "outDir": "dist"
